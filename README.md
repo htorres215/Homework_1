@@ -31,7 +31,7 @@ now is on necessity rather than finding the next unicorn.
 
 #### _Real Estate Tech Global Financing History_
 
-![ExhibitA](2020-12-13-20-17-57.png)
+![ExhibitA](Images/2020-12-13-20-17-57.png)
 
 
 #### Trends in Residential Real Estate Tech
@@ -59,7 +59,7 @@ now is on necessity rather than finding the next unicorn.
 
 Other major companies in this domain include:
 
-![Competitors](2020-12-13-20-54-31.png)
+![Competitors](Images/2020-12-13-20-54-31.png)
 
 ## **Results**
 
